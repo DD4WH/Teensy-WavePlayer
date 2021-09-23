@@ -32,7 +32,7 @@ AudioConnection          patchCord6(ADC1, 1, record, 1);
 AudioControlSGTL5000     sgtl5000_1;     //xy=466,205
 
 
-const char filename[] = "RecADC3.wav";
+const char filename[] = "RecADC4.wav";
 
 File file;
 
